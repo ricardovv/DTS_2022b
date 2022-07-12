@@ -1,4 +1,5 @@
-# DTS_2022b
+# DTS_2022b 
+
 Repositorio para la Clase Diseño, Tecnologia y Sociedad, Escuela de Diseño UC, 2022A. 
 
 ## SESIONES
@@ -11,14 +12,12 @@ Repositorio para la Clase Diseño, Tecnologia y Sociedad, Escuela de Diseño UC,
 * Daniela Moyano, Diseñadora: dpmoyano@uc.cl  
 * Ricardo Vega, Diseñador, Artista: rivegam@uc.cl. 
 
-
 ## AYUDANTES 
 
 * Emilia Ramírez, estudiante diseño.
 * Verónica Gatica, estudiante diseño. 
 * Josefa Lozano, estudiante diseño. 
 * Victoria López Valdés, estudiante ingeniería.
-
 
 ## HERRAMIENTAS
 
@@ -32,5 +31,7 @@ Repositorio para la Clase Diseño, Tecnologia y Sociedad, Escuela de Diseño UC,
 * Figma:  
 * Discord: 
 
+## NOTA
 
+* Principalmente para entregas de encargos con copnente técnico. 
 

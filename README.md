@@ -14,10 +14,10 @@ Repositorio para la Clase Diseño, Tecnologia y Sociedad, Escuela de Diseño UC,
 
 ## AYUDANTES 
 
-* Emilia Ramírez, estudiante diseño.
-* Verónica Gatica, estudiante diseño. 
-* Josefa Lozano, estudiante diseño. 
-* Victoria López Valdés, estudiante ingeniería.
+* Emilia Ramírez, estudiante diseño: emilia.ramirez@uc.c
+* Verónica Gatica, estudiante diseño: vgaticg@uc.cl
+* Josefa Lozano, estudiante diseño: josefa.lozano@uc.cl 
+* Victoria López Valdés, estudiante ingeniería: vblopez@uc.cl
 
 ## HERRAMIENTAS
 
@@ -28,10 +28,10 @@ Repositorio para la Clase Diseño, Tecnologia y Sociedad, Escuela de Diseño UC,
 
 * Anaconda: para trabajar con Python y datos en Jupyter Notebook. [Aanaconda] (https://www.anaconda.com)
 * SublimeText 3: Editor de código HTL, CSS, y JavaScript. [https://www.sublimetext.com](https://www.sublimetext.com)
-* Figma:  
+* Figma: Un editor de dibujo vectorial y creación de prototipos que permite compartir los archivos en línea. (https://www.figma.com/.)
 * Discord: 
 
 ## NOTA
 
-* Principalmente para entregas de encargos con copnente técnico. 
+* Principalmente para entregas de encargos con coponente técnico. 
 

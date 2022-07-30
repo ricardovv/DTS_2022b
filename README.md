@@ -1,11 +1,13 @@
-# DTS_2022b 
+# DISEÑO TECNOLOGÍA Y SOCIEDAD (DNO1023) - 2022b 
+
 
 Repositorio para la Clase Diseño, Tecnologia y Sociedad, Escuela de Diseño UC, 2022A. 
+Este repositorio: https://github.com/DipVis/DipVis_2022a
 
 ## SESIONES
 
-* CLASES: Lunes 8:30 – 11:20, Sala por confirnar
-* AYUDANTÍA: Lunes 11:45 – 12:50, Sala por confirnar
+* CLASES: Lunes 8:30 – 11:20, Sala Refectorio
+* AYUDANTÍA: Lunes 11:45 – 12:50, Refectorio
 
 ## EQUIPO 
 
@@ -19,19 +21,21 @@ Repositorio para la Clase Diseño, Tecnologia y Sociedad, Escuela de Diseño UC,
 * Josefa Lozano, estudiante diseño: josefa.lozano@uc.cl 
 * Victoria López Valdés, estudiante ingeniería: vblopez@uc.cl
 
-## HERRAMIENTAS
+## HERRAMIENTAS Y PROGRAMAS
 
-* Github: https://github.com/DipVis/DipVis_2022a
+### Crear cuentas:  
 * Drive: (solo con cuenta UC ;) 
+* Figma: Un editor de dibujo vectorial y creación de prototipos que permite compartir los archivos en línea. [https://www.figma.com] (https://www.figma.com/)
+* Discord: invitación de las ayudantes [https://discord.com/] (https://discord.com/)
+* Github: [https://github.com/] (https://github.com/)
 
-## PROGRAMAS
+### Descargar e instalar:  
 
-* Anaconda: para trabajar con Python y datos en Jupyter Notebook. [Aanaconda] (https://www.anaconda.com)
 * SublimeText 3: Editor de código HTL, CSS, y JavaScript. [https://www.sublimetext.com](https://www.sublimetext.com)
-* Figma: Un editor de dibujo vectorial y creación de prototipos que permite compartir los archivos en línea. (https://www.figma.com/.)
-* Discord: 
+* Anaconda: para trabajar con Python y datos en Jupyter Notebook. [Aanaconda] (https://www.anaconda.com)
+
 
 ## NOTA
 
-* Principalmente para entregas de encargos con coponente técnico. 
+* Este repsositorio es principalmente para ejemplos de encargos con componente técnico. 
 
